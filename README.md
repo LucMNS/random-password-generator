@@ -2,6 +2,10 @@
 
 Uma página simples para gerar senhas aleatórias e copiá-las para a área de transferência. O projeto foi feito com HTML, CSS e JavaScript, sem dependências externas.
 
+## Visual
+
+![alt text](img/visual.png)
+
 ## Funcionalidades
 
 - Gera senhas com 12 caracteres.
